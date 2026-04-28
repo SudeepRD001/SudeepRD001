@@ -334,11 +334,21 @@ timeline
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker%20v12-EC0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH v12"/>
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Tata%20Cybersecurity%20Analyst-1F2A44?style=for-the-badge&logo=tata&logoColor=white" alt="Tata Cybersecurity"/>
-  <img src="https://img.shields.io/badge/AGI%20Introductory%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy AGI"/>
+  <a href="https://drive.google.com/file/d/1p5yrU7ZAssRcRy3Vbrn7iu079Gl1tO0d/view" target="_blank">
+    <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker%20v12-EC0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH v12"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1shms_0KjYZ4arZTP1C4uuhBMc0gOezeC/view" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1mZ7KAaa9AjmWBDxu_SDvhQU3jBhNnNNa/view" target="_blank">
+    <img src="https://img.shields.io/badge/Tata%20Cybersecurity%20Analyst-1F2A44?style=for-the-badge&logo=tata&logoColor=white" alt="Tata Cybersecurity"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1WBhAQnYB98CcPzh4qs4OeX4J7a16hFwg/view" target="_blank">
+    <img src="https://img.shields.io/badge/AGI%20Introductory%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy AGI"/>
+  </a>
 </p>
+
+<sub align="center">📎 Click any badge above to view the certificate.</sub>
 
 <br/>
 
