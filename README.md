@@ -383,7 +383,7 @@ timeline
   <img src="https://raw.githubusercontent.com/SudeepRD001/SudeepRD001/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </div>
 
-<sub>Snake regenerates every 12 hours via GitHub Actions (workflow setup in <code>SETUP_GUIDE.md</code>).</sub>
+<sub>Snake regenerates every 12 hours via GitHub Actions.</sub>
 
 <br/>
 
